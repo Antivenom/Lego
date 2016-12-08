@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
 * Ruby version
+I am currently running: ruby 2.2.4p230 (2015-12-16 revision 53155) [x86_64-darwin15]
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Short summary: <br> 
+This project is going to make my life and hopefuly easier due to the fact that you can download either a standalone CMS(only for usermanagement) or you can select a bunch of CMSs and bundle them together to get an ultimate CMS.
